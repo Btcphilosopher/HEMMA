@@ -1,0 +1,6 @@
+{
+  "name": "HEMMA",
+  "description": "IKEA-style Scandinavian home furnishing, interior design, and AI planning assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
